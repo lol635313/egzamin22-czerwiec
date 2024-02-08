@@ -5,6 +5,6 @@ Metodologia:   HTML +CSS
 Program: VSC
 źródło:https://arkusze.pl/zawodowy/inf03-2022-czerwiec-egzamin-zawodowy-praktyczny.pdf
 Data ukończenia: 08.02.2024
-Adres strony:file:///E:/CSS/Index.html
+Adres strony:**file:///E:/CSS/Index.html**
 Seploy - gałaz modyfikowanie
 Pliki i foldery 
